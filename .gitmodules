@@ -1,0 +1,3 @@
+[submodule "Plugins/VoxelEngine"]
+	path = Plugins/VoxelEngine
+	url = https://github.com/DavidJCottrell/VoxelEngine.git
